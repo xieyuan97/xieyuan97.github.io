@@ -26,6 +26,23 @@ Prior to my current role, I served as a Research Fellow at the National Universi
 - *2026.11*: &nbsp;🎉🎉 One paper has been accepted by KDD’27 (CCF-A)! Many thanks to my collaborators.
 
 
+# 💼 Employment
+- *2027.01 - ()*, Research Fellow, National University of Singapore (NUS), Singapore. 
+- *2026.01 - 2026.12*, Research Fellow, The University of Tokyo (U-Tokyo), Tokyo, Japan
+- *2021.11 - 2023.11*, Research Fellow, National University of Singapore (NUS), Singapore
+- *2023.12 - 2024.06*, Research Assistant, National University of Singapore (NUS), Singapore
+
+
+# 🎓 Educations
+- *2019.06 - 2024.04*, Ph.D., Computer Science, Hunan University, Hunan. 
+- *2021.11 - 2023.11*, Visiting Ph.D., Computer Science, National University of Singapore (NUS), Singapore.
+
+
+# 📝 Academic Service
+- Conference Reviewer: ICML, NeurIPS, AAAI, ICDE, ACM MM
+- Journal Reviewer: TPAMI, ToN, IoT, TCSS, TCCN, IoT, TGCN, MMSym
+
+
 # 📝 Publications
 
 **[KDD 2027]** [SENTRY: Defending Multi-Modal Trajectory Classification against Adversarial Attacks via Shared Spatial Indexing](https://doi.org/10.1145/3862868.3871329),<br>
@@ -55,15 +72,3 @@ Jinyu Cai, <strong>Yuan Xie<sup>&#42;</sup></strong>, Glynnis Lim, Yifang Yin, R
 **[Information Sciences 2023]** [Satisfaction-aware Task Assignment in Spatial Crowdsourcing](https://doi.org/10.1016/j.ins.2022.11.081),<br>
 **Yuan Xie**, Yongheng Wang, Kenli Li, Xu Zhou, Zhao Liu, Keqin Li,<br>
 *Information Sciences, 2023, vol. 622, pp. 512–535.* <span style="color:red; font-weight:bold;">(CCF B)</span>
-
-
-# 💼 Employment
-- *2027.01 - ()*, Research Fellow, National University of Singapore (NUS), Singapore. 
-- *2026.01 - 2026.12*, Research Fellow, The University of Tokyo (U-Tokyo), Tokyo, Japan
-- *2021.11 - 2023.11*, Research Fellow, National University of Singapore (NUS), Singapore
-- *2023.12 - 2024.06*, Research Assistant, National University of Singapore (NUS), Singapore
-
-# 🎓 Educations
-- *2019.06 - 2024.04*, Ph.D., Computer Science, Hunan University, Hunan. 
-- *2021.11 - 2023.11*, Visiting Ph.D., Computer Science, National University of Singapore (NUS), Singapore. 
-
