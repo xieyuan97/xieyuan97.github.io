@@ -28,8 +28,8 @@ Prior to my current role, I served as a Research Fellow at the National Universi
 
 # 📝 Publications
 
-**[KDD 2027]** [SENTRY: Defending Multi-Modal Trajectory Classification against Adversarial Attacks via Shared Spatial Indexing],  
-**Yuan Xie**, Jinyu Cai, Wensheng Luo, Yifang Yin, Glynnis Lim, See-Kiong Ng
+**[KDD 2027]** [SENTRY: Defending Multi-Modal Trajectory Classification against Adversarial Attacks via Shared Spatial Indexing],<br>
+**Yuan Xie**, Jinyu Cai, Wensheng Luo, Yifang Yin, Glynnis Lim, See-Kiong Ng,<br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.* <span style="color:red">**(CCF A)**</span>
 
 # 📖 Employment
