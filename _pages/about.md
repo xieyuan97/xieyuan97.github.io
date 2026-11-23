@@ -38,7 +38,7 @@ Prior to my current role, I served as a Research Fellow at the National Universi
 - *2021.11 - 2023.11*, Visiting Ph.D., Computer Science, National University of Singapore (NUS), Singapore.
 
 
-# 📝 Academic Service
+# 🤝 Academic Service
 - Conference Reviewer: ICML, NeurIPS, AAAI, ICDE, ACM MM
 - Journal Reviewer: TPAMI, ToN, IoT, TCSS, TCCN, IoT, TGCN, MMSym
 
