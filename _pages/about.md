@@ -57,13 +57,13 @@ Jinyu Cai, <strong>Yuan Xie<sup>&#42;</sup></strong>, Glynnis Lim, Yifang Yin, R
 *Information Sciences, 2023, vol. 622, pp. 512–535.* <span style="color:red; font-weight:bold;">(CCF B)</span>
 
 
-# 📖 Employment
+# 💼 Employment
 - *2027.01 - ()*, Research Fellow, National University of Singapore (NUS), Singapore. 
 - *2026.01 - 2026.12*, Research Fellow, The University of Tokyo (U-Tokyo), Tokyo, Japan
 - *2021.11 - 2023.11*, Research Fellow, National University of Singapore (NUS), Singapore
 - *2023.12 - 2024.06*, Research Assistant, National University of Singapore (NUS), Singapore
 
-# 📖 Educations
+# 🎓 Educations
 - *2019.06 - 2024.04*, Ph.D., Computer Science, Hunan University, Hunan. 
 - *2021.11 - 2023.11*, Visiting Ph.D., Computer Science, National University of Singapore (NUS), Singapore. 
 
