@@ -37,7 +37,7 @@ Prior to my current role, I served as a Research Fellow at the National Universi
 *Proceedings of the IEEE International Conference on Data Engineering, 2025, pp. 765–778.* <span style="color:red; font-weight:bold;">(CCF A)</span>
 
 **[NeurIPS 2025 Spotlight]** [Self-Perturbed Anomaly-Aware Dynamics for Multivariate Time-Series Anomaly Detection](https://openreview.net/pdf?id=hJJnwcvE2M),<br>
-Jinyu Cai, **Yuan Xie<sup>*</sup>**, Glynnis Lim, Yifang Yin, Roger Zimmermann, See-Kiong Ng,<br>
+Jinyu Cai, <strong>Yuan Xie<sup>&#42;</sup></strong>, Glynnis Lim, Yifang Yin, Roger Zimmermann, See-Kiong Ng,<br>
 *Advances in Neural Information Processing Systems, 2025.* <span style="color:red; font-weight:bold;">(CCF A)</span>
 
 **[ACM MM 2024]** [A Local Context-aware Snapshot and Sequential Dual Fusion Transformer for Trajectory Classification](https://doi.org/10.1145/3664647.3681340),<br>
