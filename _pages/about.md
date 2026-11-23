@@ -28,7 +28,7 @@ Prior to my current role, I served as a Research Fellow at the National Universi
 
 # 📝 Publications
 
-**[KDD 2027]** [SENTRY: Defending Multi-Modal Trajectory Classification against Adversarial Attacks via Shared Spatial Indexing],<br>
+**[KDD 2027]** [SENTRY: Defending Multi-Modal Trajectory Classification against Adversarial Attacks via Shared Spatial Indexing](https://doi.org/10.1145/3862868.3871329),<br>
 **Yuan Xie**, Jinyu Cai, Wensheng Luo, Yifang Yin, Glynnis Lim, See-Kiong Ng,<br>
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.* <span style="color:red">**(CCF A)**</span>
 
@@ -36,7 +36,7 @@ Prior to my current role, I served as a Research Fellow at the National Universi
 **Yuan Xie**, Yumeng Liu, Xu Zhou, Yifang Yin, Kenli Li, Roger Zimmermann,<br>
 *Proceedings of the IEEE International Conference on Data Engineering, 2025, pp. 765–778.* <span style="color:red; font-weight:bold;">(CCF A)</span>
 
-**[NeurIPS 2025 Spotlight]** [Self-Perturbed Anomaly-Aware Dynamics for Multivariate Time-Series Anomaly Detection],<br>
+**[NeurIPS 2025 Spotlight]** [Self-Perturbed Anomaly-Aware Dynamics for Multivariate Time-Series Anomaly Detection](https://openreview.net/pdf?id=hJJnwcvE2M),<br>
 Jinyu Cai, **Yuan Xie<sup>*</sup>**, Glynnis Lim, Yifang Yin, Roger Zimmermann, See-Kiong Ng,<br>
 *Advances in Neural Information Processing Systems, 2025.* <span style="color:red; font-weight:bold;">(CCF A)</span>
 
