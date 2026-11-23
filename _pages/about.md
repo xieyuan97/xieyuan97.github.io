@@ -30,10 +30,9 @@ I have published more than xx papers at the top international AI conferences wit
 
 # 📝 Publications
 
-<h2>💡 Anomaly Detection</h2>
-
-- [KDD 2027] SENTRY: Defending Multi-Modal Trajectory Classification against Adversarial Attacks via Shared Spatial Indexing
-{\bf \textit{\textcolor{red}{Yuan Xie}}}, Jinyu Cai, Wensheng Luo, Yifang Yin, Glynnis Lim, See-Kiong Ng.
+**[KDD 2027]** [SENTRY: Defending Multi-Modal Trajectory Classification against Adversarial Attacks via Shared Spatial Indexing],  
+**Yuan Xie**, Jinyu Cai, Wensheng Luo, Yifang Yin, Glynnis Lim, See-Kiong Ng
+*ACM KDD, 2026.* <span style="color:red">**(CCF A)**</span>
 
 
 # 📖 Employment
